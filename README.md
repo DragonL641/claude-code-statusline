@@ -4,9 +4,7 @@
 
 ## 效果展示
 
-<!-- 截图占位：把你 statusline 的实际截图存为 preview.png 放到仓库根目录，
-     然后取消下面一行的注释即可显示在此处。 -->
-<!-- ![preview](preview.png) -->
+![claude-code-statusline 效果](preview.png)
 
 终端里的文本示意（实际带颜色）：
 
