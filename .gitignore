@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 备份
+*.bak
+
+# 防止误提交含密钥的本地 Claude 配置
+settings.json
+settings.local.json
